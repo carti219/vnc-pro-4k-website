@@ -1,0 +1,9 @@
+Please save your 6 screenshots as:
+1. screenshot-sports-guide.png (Sports channel guide with NFL)
+2. screenshot-movies.png (Mickey 17 and popular movies)
+3. screenshot-home.png (Home screen with TiviMate, Stremio apps)
+4. screenshot-youtube.png (YouTube trending interface)
+5. screenshot-series.png (4K series like Game of Thrones)
+6. screenshot-movies-browser.png (Movies like Den of Thieves 2, Sonic 3)
+
+Save them to: iptv-streaming-device/public/
